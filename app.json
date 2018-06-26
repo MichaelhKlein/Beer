@@ -1,0 +1,24 @@
+{
+  "id": "996d8c8a-145e-446e-bdeb-51efc070b944",
+  "name": "Beer",
+  "publisher": "Michavision",
+  "brief": "Beer Categories",
+  "description": "Extend your Solution with Beer Categories",
+  "version": "1.0.0.1",
+  "privacyStatement": "https://www.1clickfactory.com/company-resources/company/about-us/",
+  "EULA": "https://www.1clickfactory.com/company-resources/company/contacts/",
+  "help": "https://www.1clickfactory.com/support/1clickfactory-support-services/",
+  "url": "https://www.1clickfactory.com/",
+  "logo": "C:/Users/student/Documents/AL/Beer/Data/Beer.jpg",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "features": [ "TranslationFile"],
+  "target": "Internal"
+}

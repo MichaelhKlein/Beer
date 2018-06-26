@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Beer">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 599354252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Category</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Category - Table:BCA Beer Category</note>
+        </trans-unit>
+        <trans-unit id="Table 599354252 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Category - Field:Code</note>
+        </trans-unit>
+        <trans-unit id="Table 599354252 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Category - Field:Name</note>
+        </trans-unit>
+        <trans-unit id="Table 3170121833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Setup</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Setup - Table:BCA Beer Setup</note>
+        </trans-unit>
+        <trans-unit id="Table 3170121833 - Field 1663593181 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Setup - Field:Primary Key</note>
+        </trans-unit>
+        <trans-unit id="Table 3170121833 - Field 1930137534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure URL</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Setup - Field:Azure URL</note>
+        </trans-unit>
+        <trans-unit id="Table 3170121833 - Field 540420960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Function Name</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Setup - Field:Azure Function Name</note>
+        </trans-unit>
+        <trans-unit id="Page 3170121833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Setup</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Setup - Page:BCA Beer Setup</note>
+        </trans-unit>
+        <trans-unit id="Page 3170121833 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Setup - Control:General</note>
+        </trans-unit>
+        <trans-unit id="Table 1684243593 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Style - Field:ID</note>
+        </trans-unit>
+        <trans-unit id="Table 1684243593 - Field 366917023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category ID</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Style - Field:Category ID</note>
+        </trans-unit>
+        <trans-unit id="Table 1684243593 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Style - Field:Name</note>
+        </trans-unit>
+        <trans-unit id="Table 1684243593 - Field 1071470719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Short Name</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:BCA Beer Style - Field:Short Name</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 4092521456 - NamedType 12608794" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is not a beer!</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:notBeerMessage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 2433209534 - NamedType 224460241" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BeerCategories.xml</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:FileNameLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 2433209534 - NamedType 2948257970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Categories Export</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:DialogTitleLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 105011421 - NamedType 2948257970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select XML file for Import</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:DialogTitleLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 105011421 - NamedType 1775638268" size-unit="char" translate="no" xml:space="preserve">
+          <source>XML Files (*.xml)|*.xml</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:FromFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 1079566850 - NamedType 4003343243" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initial Beer Setup</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:BeerSetupLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 954692418 - NamedType 3196044964" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Setup isn't finished. Do you want to run the wizard?</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:NotificationText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1690818922 - Method 954692418 - NamedType 138050561" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Beer Setup Wizard</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:BCA Settings Management - LocalVariable:RunWizardText</note>
+        </trans-unit>
+        <trans-unit id="Page 1167909022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Category List</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Category List - Page:BCA Beer Category List</note>
+        </trans-unit>
+        <trans-unit id="Page 1167909022 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Category List - Action:Export</note>
+        </trans-unit>
+        <trans-unit id="Page 1167909022 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Category List - Action:Import</note>
+        </trans-unit>
+        <trans-unit id="Page 1167909022 - Action 634255329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Beer Categories from Azure</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Category List - Action:AzureCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initial Setup Wizard</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Page:BCA Initial Setup Wizard</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3392976171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to Beer Setup Wizard</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:WelcomeStep1</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3392976171 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This setup will allow you to easily specify information for initial data load</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:WelcomeStep1</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 1165826145 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:WelcomStep2</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 1165826145 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Next to start.</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:WelcomStep2</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3820093244 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify Azure URL address</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:StepAzureURL</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2626516350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL Address</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:AzureURL</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2626516350 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E.g. extv2workshop.azurewebsites.net</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:AzureURL</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 1128978499 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify Azure function name</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:StepAzureFunction</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2696932752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function Name</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:AzureFunctionName</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2696932752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E.g. HttpTriggerCSharp1</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:AzureFunctionName</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3819372211 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish setup</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:StepFinish</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2949891724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:StepFinish1</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2949891724 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To enable changes, choose Finish.</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:StepFinish1</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3587588341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:StepFinish2</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3587588341 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notice: All fields must be filled to enable finish button.</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Control:StepFinish2</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Action 742034285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Action:Back</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Action 1235620153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Action:Next</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Action 2667510389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Initial Setup Wizard - Action:Finish</note>
+        </trans-unit>
+        <trans-unit id="Page 2585932832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Styles</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Styles - Page:BCA Beer Styles</note>
+        </trans-unit>
+        <trans-unit id="Page 2585932832 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:BCA Beer Styles - Control:GroupName</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3808296011 - Control 989254548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Category</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:BCA Item Card - Control:BCA_Beer_Category</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1881749772 - Action 2756499394 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Categories</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:BCA Bus Manager Rolecenter - Action:BCA Beer Categories</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1881749772 - Action 3038620073 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Categories</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:BCA Bus Manager Rolecenter - Action:BCA_Beer_Categories_Action</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1881749772 - Action 2874474769 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Setup</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:BCA Bus Manager Rolecenter - Action:BCA_Beer_Setup</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3988354031 - Field 874863799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Category Code</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:BCA Item - Field:BCA Beer Category Code</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3988354031 - Field 3171811660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beer Category Name</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:BCA Item - Field:BCA Beer Categpry Name</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

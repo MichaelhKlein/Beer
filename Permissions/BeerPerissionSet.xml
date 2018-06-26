@@ -1,0 +1,14 @@
+<PermissionSets>
+  <PermissionSet RoleID="BEER" RoleName="This is a Set for Beer Project">
+    <Permission>
+      <ObjectType>8</ObjectType>
+      <ObjectID>30</ObjectID>
+      <ReadPermission>1</ReadPermission>
+      <InsertPermission>1</InsertPermission>
+      <ModifyPermission>1</ModifyPermission>
+      <DeletePermission>0</DeletePermission>
+      <ExecutePermission>1</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+  </PermissionSet>
+</PermissionSets>
